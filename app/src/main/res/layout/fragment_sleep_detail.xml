@@ -30,7 +30,7 @@
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".sleepDetail.SleepDetailFragment">
+        tools:context=".sleepdetail.SleepDetailFragment">
 
         <ImageView
             android:id="@+id/quality_image"

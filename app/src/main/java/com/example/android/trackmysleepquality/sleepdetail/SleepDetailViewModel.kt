@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.trackmysleepquality.sleepDetail
+package com.example.android.trackmysleepquality.sleepdetail
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
